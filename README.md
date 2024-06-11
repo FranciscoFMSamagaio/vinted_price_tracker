@@ -1,4 +1,4 @@
-# Vinted Price Scraper
+# Vinted Price 
 
 This repository contains a Python script that scrapes Vinted for specific items, analyzes their prices, removes outliers, calculates the average price, and saves the data to a CSV file. This is particularly useful for getting an average market price of items with a lot of listings, like popular sneaker models.
 
